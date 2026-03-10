@@ -63,4 +63,4 @@ Por esta razón, se recomienda que el Sr. João considere **vender la Tienda 4**
 
 # 👨‍💻 Autor
 
-Proyecto realizado como parte del **Challenge de Data Science de Alura LATAM**.
+Proyecto realizado por Nestor Rubin de Celis, como parte del **Challenge de Data Science de Alura LATAM**.
